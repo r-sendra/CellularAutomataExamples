@@ -1,1 +1,1 @@
-# CellularAutomataExamples
+# Cooperative Control
